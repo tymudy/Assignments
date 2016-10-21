@@ -1,4 +1,4 @@
-body{
+div{
 	width: 100%;
 }
 
@@ -10,7 +10,7 @@ section{
 /* Desktop */
 @media (min-width: 992px) {
 	.col_lg_4{
-		width: 33%;
+		width: 33,32%;
 	}
 }
 
