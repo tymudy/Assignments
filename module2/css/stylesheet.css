@@ -1,15 +1,11 @@
-div{
-	width: 100%;
-}
-
 section{
-	display: block;
 	border: 1px solid;
 }
 
 /* Desktop */
 @media (min-width: 992px) {
 	.col_lg_4{
+		float: left;
 		width: 33,32%;
 	}
 }
@@ -17,6 +13,7 @@ section{
 /* Tablet */
 @media (min-width: 768px) and (max-width: 991px) {
 	.col_md_6{
+		float: left;
 		width: 50%
 	}
 }
@@ -25,6 +22,7 @@ section{
 /* Mobile */
 @media (max-width: 767px) {
 	.col_sm_12{
+		float: left;
 		width: 100%
 	}
 }
