@@ -2,6 +2,10 @@
 	box-sizing: content-box;
 }
 
+div{
+	width: 100%;
+}
+
 section{
 	display: block;
 	border: 1px solid;
