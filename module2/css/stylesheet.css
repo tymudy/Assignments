@@ -8,14 +8,16 @@
 
 section{
 	border: 1px solid;
-	clear: top;
-	clear: right;
 }
 
 .title{
 	position: relative;
 	float: right;
 	border: 1px solid;
+}
+
+.text{
+	clear: right;
 }
 
 /* Desktop */
