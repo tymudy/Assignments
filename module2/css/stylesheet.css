@@ -7,13 +7,11 @@
 }
 
 section{
-	position: relative;
 	border: 1px solid;
 	clear: right;
 }
 
 .title{
-	position: absolute;
 	float: right;
 }
 
