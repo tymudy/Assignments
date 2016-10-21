@@ -12,8 +12,10 @@ section{
 	clear: right;
 }
 
-.title.text{
-	float: right;
+.title{
+	position: relative;
+	top: 0px;
+	right: 100%;
 	border: 1px solid;
 }
 
