@@ -13,6 +13,7 @@ section{
 
 .title{
 	float: right;
+	border: 1px solid;
 }
 
 /* Desktop */
