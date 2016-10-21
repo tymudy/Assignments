@@ -7,7 +7,6 @@ div{
 }
 
 section{
-	display: block;
 	border: 1px solid;
 }
 
@@ -23,7 +22,7 @@ section{
 @media (min-width: 768px) and (max-width: 991px) {
 	.col_md_6{
 		float: left;
-		width: 50%
+		width: 50%;
 	}
 }
 
@@ -32,6 +31,6 @@ section{
 @media (max-width: 767px) {
 	.col_sm_12{
 		float: left;
-		width: 100%
+		width: 100%;
 	}
 }
