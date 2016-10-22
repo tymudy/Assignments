@@ -1,5 +1,6 @@
 *{
 	box-sizing: border-box;
+	margin: 0px;
 }
 
 h1{
@@ -19,7 +20,6 @@ h1{
 
 .col_lg_4{
 	border: 1px solid;
-	padding-right: 10px;
 	background-color: #ffe3c3;
 }
 
