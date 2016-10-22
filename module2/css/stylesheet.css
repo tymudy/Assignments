@@ -19,7 +19,18 @@
 	float: right;
 	padding: 2px 7px;
 	border: 1px solid;
+}
+
+.color1{
 	background-color: #fa8072;
+}
+
+.color2{
+	background-color: #a5905c;
+}
+
+.color3{
+	background-color: #fff68f;
 }
 
 /* Desktop */
