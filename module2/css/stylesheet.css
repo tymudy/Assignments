@@ -64,7 +64,7 @@ h1{
 	}
 	.float{
 		float: left;
-		width: 98%;
+		width: 97.5%;
 		margin-left: 10px;
 		margin-top: 10px;
 	}
@@ -75,7 +75,7 @@ h1{
 @media (max-width: 767px) {
 	.col_sm_12{
 		float: left;
-		width: 97.5%;
+		width: 98%;
 		margin-left: 10px;
 		margin-top: 10px;
 	}
