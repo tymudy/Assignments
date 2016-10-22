@@ -50,6 +50,10 @@
 		float: left;
 		width: 50%;
 	}
+	.col_sm_12{
+		float: left;
+		width: 100%;
+	}
 }
 
 
