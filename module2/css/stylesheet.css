@@ -57,12 +57,12 @@ h1{
 @media (min-width: 768px) and (max-width: 991px) {
 	.col_md_6{
 		float: left;
-		width: 48%;
+		width: 47%;
 		margin: 10px;
 	}
 	.float{
 		float: left;
-		width: 98%;
+		width: 98.5%;
 		margin: 10px;
 	}
 }
