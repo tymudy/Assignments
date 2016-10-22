@@ -19,14 +19,9 @@ h1{
 	clear: right;
 }
 
-.wrapper{
-	width: 100px;
-}
-
 .col_lg_4{
 	border: 1px solid;
 	background-color: #ffe3c3;
-	margin: 5px;
 }
 
 .title{
@@ -52,6 +47,7 @@ h1{
 @media (min-width: 992px) {
 	.col_lg_4{
 		float: left;
+		margin: 10px;
 		width: 33%;
 	}
 }
@@ -60,10 +56,12 @@ h1{
 @media (min-width: 768px) and (max-width: 991px) {
 	.col_md_6{
 		float: left;
+		margin: 10px;
 		width: 50%;
 	}
 	.float{
 		float: left;
+		margin: 10px;
 		width: 100%;
 	}
 }
@@ -73,6 +71,7 @@ h1{
 @media (max-width: 767px) {
 	.col_sm_12{
 		float: left;
+		margin: 10px;
 		width: 100%;
 	}
 }
