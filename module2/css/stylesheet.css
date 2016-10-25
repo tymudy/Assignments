@@ -55,7 +55,6 @@ html, body{
 @media (min-width: 992px) {
 	.col_lg_4{
 		float: left;
-		padding-right: 10px;
 		width: 33.33%;
 		
 	}
@@ -65,12 +64,10 @@ html, body{
 @media (min-width: 768px) and (max-width: 991px) {
 	.col_md_6{
 		float: left;
-		padding: 10px;
 		width: 50%;
 	}
 	.float{
 		float: left;
-		padding: 10px;
 		width: 100%;
 	}
 }
@@ -80,7 +77,6 @@ html, body{
 @media (max-width: 767px) {
 	.col_sm_12{
 		float: left;
-		padding: 10px;
 		width: 100%;
 	}
 }
