@@ -6,6 +6,7 @@ h1{
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 20px;
+	width: 100%;
 }
 
 html, body{
@@ -14,7 +15,7 @@ html, body{
 }
 
 #main{
-	width: auto;
+	width: 100%;
 	border: 1px;
 	margin: 0px;
 	padding: 0px;
@@ -51,9 +52,6 @@ html, body{
 
 /* Desktop */
 @media (min-width: 992px) {
-	body{
-		margin-right: 0px;
-	}
 	.col_lg_4{
 		float: left;
 		width: 33%;
