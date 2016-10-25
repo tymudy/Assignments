@@ -11,6 +11,7 @@ h1{
 #main{
 	width: 100%;
 	border: 1px;
+	height: 100px auto;
 	margin: 10px auto;
 }
 
