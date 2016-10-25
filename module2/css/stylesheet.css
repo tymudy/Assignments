@@ -26,7 +26,6 @@ html, body{
 }
 
 .col_lg_4{
-	border: 1px solid;
 	background-color: #ffe3c3;
 }
 
@@ -53,7 +52,7 @@ html, body{
 @media (min-width: 992px) {
 	.col_lg_4{
 		float: left;
-		width: 34%;
+		width: 33%;
 		
 	}
 }
