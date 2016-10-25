@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 }
 
-h1{
+h1, html, body{
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 20px;
