@@ -13,8 +13,8 @@ html, body{
 	padding: 0px;
 }
 
-html > #main{
-	width: 100%;
+#main{
+	width: auto;
 	border: 1px;
 	margin: 0px;
 	padding: 0px;
